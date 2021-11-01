@@ -1,5 +1,11 @@
 package com.guy.class22a_and_2;
 
+public class Temp {
+}
+
+/*
+package com.guy.class22a_and_2;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -77,3 +83,4 @@ public class Activity_Panel extends AppCompatActivity {
         };
     }
 }
+ */
